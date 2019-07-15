@@ -4,5 +4,6 @@ body, html {
 }
 
 body {
-  background-color: orange;
+  background-color: gray;
+  color: white;
 }
