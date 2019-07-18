@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(255, 170, 223);
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.note {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.under {
+  text-decoration: underline;
+}
+
+.cross {
+  text-decoration: line-through;
+}
+
+.menu {
+  border: 2px dashed blue;
+}
+
+.menu li > ul {
+  background-color: rgba(59, 59, 42, 0.5);
+  color: white;
+}
+
+.chapter-1 {
+  background-color: rgb(233, 232, 232);
+}
+
+.chapter-2 {
+  background-color: rgb(95, 0, 0);
+  color: rgba(0, 225, 255, 0.788);
+}
+
+.chapter-3 {
+  background-color: rgb(153, 153, 153);
+  color: rgb(65, 255, 106);
+}
+
+.chapter-4 {
+  background-color: rgb(252, 109, 109);
+}
+
+.chapter-5 {
+  background-color: rgb(252, 255, 93);
+  
+}
