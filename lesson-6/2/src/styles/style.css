@@ -1,0 +1,77 @@
+html {
+  height: 100vh;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f6f6f6;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.card {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  min-width: 991px;
+  max-width: 52.5%;
+  height: 502px;
+  margin: auto;
+  padding: 64px 47px; 
+  border: 1px solid #ebebeb;
+  background-color: #fff;
+}
+
+.image, .content {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.image {
+  width: 375px;
+  height: 375px;
+  background: url("../img/headphone.jpg") no-repeat;
+
+}
+
+.content {
+  width: 410px;
+  min-height: 330px;
+  margin-left: 99px;
+}
+
+h1 {
+  font-size: 22.5px;
+}
+
+.description {
+  width: auto;
+  height: auto;
+  font-size : 15px;
+}
+
+.price {
+  margin-top: 50px;
+  font-size: 15px;
+}
+
+.cost {
+  margin-top: 18px;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.backet {
+  display: inline-block;
+  margin-top: 55px;
+  padding: 16px 38px;
+  color: #fff;
+  font-size: 18.75px;
+  text-decoration: none;
+  background-color: #ec744a;
+}
