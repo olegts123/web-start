@@ -1,0 +1,149 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  color: #32325f;
+}
+
+.hero {
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+.social a {
+  margin-left: 20px;
+}
+
+.hero-name {
+  color: #95989a;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.hero-main {
+  margin-top: 100px;
+}
+
+.pre-sale-text {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.main-text {
+  margin-top: 50px;
+}
+
+.main-heading {
+  margin-top: 15px;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.description {
+  margin-top: 26px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.book-price-text {
+  margin-top: 16px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.book-price {
+  margin-top: 10px;
+  font-size: 48px;
+  font-weight: 400;
+  color: #525f7f;
+}
+
+.buttons {
+  margin-top: 30px;
+}
+
+.buttons a {
+  margin-top: 20px;
+  margin-right: 30px;
+}
+
+.about {
+  padding-top: 90px;
+  padding-bottom: 130px;
+}
+
+.about-text {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.about-heading {
+  margin-top: 14px;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.about-content {
+  margin-top: 100px;
+}
+
+.feature-description {
+  margin-top: 40px;
+}
+
+.already-order {
+  padding-top: 90px;
+  padding-bottom: 112px;
+}
+
+.already-order-text {
+  font-size: 20px;
+  font-weight: 400;
+  background-color: #f4f5f7;
+}
+
+.already-ordered-headign {
+  margin-top: 14px;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.order-content {
+  margin-top: 28px;
+}
+
+.order-content .row div {
+  margin-top: 36px;
+  padding-right: auto;
+}
+
+.order-content .row div img {
+  width: 99%;
+}
+
+.contacts {
+  background-color: #32325f;
+  padding:  78px 0 30px 0;
+  color: #fff;
+}
+
+.contacts-col {
+  margin-bottom: 70px;
+}
+
+.contacts-col .col-head {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.contacts-col .col-content {
+  display: block;
+  margin-top: 35px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.contacts-col .col-content a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
